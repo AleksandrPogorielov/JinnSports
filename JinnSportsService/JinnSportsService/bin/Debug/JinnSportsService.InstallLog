@@ -1,0 +1,42 @@
+﻿Выполняется установка сборки 'H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe
+   logfile = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.InstallLog
+Устанавливается служба HTMLService...
+Служба HTMLService успешно установлена.
+Создается исходный EventLog HTMLService в журнале Application...
+Выполняется фиксация сборки 'H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe
+   logfile = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.InstallLog
+Выполняется удаление сборки 'H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe
+   logfile = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.InstallLog
+Выполняется удаление источника EventLog HTMLService.
+Выполняется удаление службы HTMLService из системы...
+Служба HTMLService успешно удалена из системы.
+Выполняется установка сборки 'H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe
+   logfile = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.InstallLog
+Устанавливается служба HTMLService...
+Служба HTMLService успешно установлена.
+Создается исходный EventLog HTMLService в журнале Application...
+Выполняется фиксация сборки 'H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe
+   logfile = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.InstallLog
+Выполняется удаление сборки 'H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.exe
+   logfile = H:\C#\Experimental\test\JinnSportsService\JinnSportsService\bin\Debug\JinnSportsService.InstallLog
+Выполняется удаление источника EventLog HTMLService.
+Выполняется удаление службы HTMLService из системы...
+Служба HTMLService успешно удалена из системы.

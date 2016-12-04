@@ -1,0 +1,14 @@
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.DataAccessInterfaces.dll
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.DataAccessInterfaces.pdb
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.Entities.dll
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.Entities.pdb
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\obj\Debug\JinnSports.DataAccessInterfaces.csprojResolveAssemblyReference.cache
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\obj\Debug\JinnSports.DataAccessInterfaces.dll
+H:\C#\Experimental\SS\rebuilding\JinnSports.DataAccessInterfaces\obj\Debug\JinnSports.DataAccessInterfaces.pdb
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.DataAccessInterfaces.dll
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.DataAccessInterfaces.pdb
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.Entities.dll
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\bin\Debug\JinnSports.Entities.pdb
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\obj\Debug\JinnSports.DataAccessInterfaces.csprojResolveAssemblyReference.cache
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\obj\Debug\JinnSports.DataAccessInterfaces.dll
+H:\C#\Experimental\test\JinnSportsService\JinnSports.DataAccessInterfaces\obj\Debug\JinnSports.DataAccessInterfaces.pdb

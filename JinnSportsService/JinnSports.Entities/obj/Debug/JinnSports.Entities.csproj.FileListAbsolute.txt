@@ -1,0 +1,10 @@
+H:\C#\Experimental\SS\rebuilding\JinnSports.Entities\bin\Debug\JinnSports.Entities.dll
+H:\C#\Experimental\SS\rebuilding\JinnSports.Entities\bin\Debug\JinnSports.Entities.pdb
+H:\C#\Experimental\SS\rebuilding\JinnSports.Entities\obj\Debug\JinnSports.Entities.csprojResolveAssemblyReference.cache
+H:\C#\Experimental\SS\rebuilding\JinnSports.Entities\obj\Debug\JinnSports.Entities.dll
+H:\C#\Experimental\SS\rebuilding\JinnSports.Entities\obj\Debug\JinnSports.Entities.pdb
+H:\C#\Experimental\test\JinnSportsService\JinnSports.Entities\bin\Debug\JinnSports.Entities.dll
+H:\C#\Experimental\test\JinnSportsService\JinnSports.Entities\bin\Debug\JinnSports.Entities.pdb
+H:\C#\Experimental\test\JinnSportsService\JinnSports.Entities\obj\Debug\JinnSports.Entities.csprojResolveAssemblyReference.cache
+H:\C#\Experimental\test\JinnSportsService\JinnSports.Entities\obj\Debug\JinnSports.Entities.dll
+H:\C#\Experimental\test\JinnSportsService\JinnSports.Entities\obj\Debug\JinnSports.Entities.pdb
